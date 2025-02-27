@@ -1,51 +1,67 @@
-# Natural ou Fake Natty? Como Vencer na Era das IAs Generativas
+# É Real ou não ? A capacidade de gerar imagens comprometedores
 
 ## 🚀 Introdução
 
-> Woooow! Look at this 👀
+> Bom dia 👀
 
-Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisiculturismo, este Lab da DIO te convida a conhecer o mundo das IAs Generativas, explorando o potencial dessas tendências tecnológicas incríveis!
-
-## 🎯 Bora Pro Desafio!? Você Já Venceu 💪🤓
-
-### Objetivos
-
-1. **Explorar IAs Generativas**: Utilize essas tecnologias para criar conteúdos que sejam o mais realista possível. Seja criativo! Você pode produzir imagens, textos, áudios, vídeos ou combinações de tudo isso!
-1. **Potfólio de Projetos**:
-    1. Faça o "fork" deste repositório, criando uma cópia em seu GitHub pessoal;
-    2. Edite seu README com os detalhes do seu projeto, siga nosso [Template](#template) (é só copiar, colar e preencher);
-    3. Submeta o link do seu repositório na plataforma da DIO. Pronto, você acabou de fortalecer seu portfólio de projetos nos perfis do GitHub e DIO 🚀
-1. **Efeito de Rede**: Compartilhe seus resultados nas redes sociais com a hashtag **#LabDIONattyOrNot**. Não esqueça de nos marcar: [DIO](https://www.linkedin.com/school/dio-makethechange) e [falvojr](https://www.linkedin.com/in/falvojr).
-
-### Template
-
-```markdown
-# Título do Projeto Extremamente Aesthetic ;)
+Sou o Fábio José e estou aprendendo o poder e utilidade das IAs generativas. neste bootcamp
 
 ## 📒 Descrição
-Breve descrição do seu projeto
+Muitas pessoas tem sido pegas de supresas com imagens e videoa não rais, como Einstein e Jobs conversando sobre os benefícios da IA, TRump beijando os pes de MUst , entre várias outras não tão "inocentees" .
+Como isto se dá ?
+Vamos perguntas para uma IA como ela trabalha
 
 ## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
+ChatGPT
 
 ## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
+A partir de um fato que esta se tornado corriqueiro , quis entender o processo por traz e propus o seguinte promt ao ChatGPT: 
+
+Bom dia<
+Sou um estudante das possibilidades de uso de IA generativa , e tem me chamado a atenção a quantidade de imagens fakes em redes sociais. 
+
+Gostaria de entender o como é possível criar uma imagem fake, e quais as tecnologias utilizadas, e as principais ferramentas para tal . 
+
+Devido ao grande espectro de imagens , vamos restringir a criação de imagem estáticas utilizando foto de pessoas famosas , disponibilizadas em redes sociais. 
+
+Grato
 
 ## 🚀 Resultados
-Apresente os resultados do seu projeto
+A criação de imagens falsas de pessoas famosas utilizando IA generativa envolve diversas técnicas e ferramentas. Vou explicar como isso funciona, as tecnologias utilizadas e as principais ferramentas disponíveis.
+1. Como é possível criar uma imagem fake de uma pessoa famosa?
+
+A criação de imagens falsas pode ser feita por meio de redes neurais profundas especializadas em síntese de imagem. Os principais métodos incluem:
+
+    GANs (Redes Generativas Adversariais): Dois modelos competem entre si – um gerador cria imagens e um discriminador avalia se são reais ou falsas.
+    Diffusion Models: Processam a geração de imagens a partir de ruído, refinando gradualmente os detalhes para gerar imagens realistas.
+    Deep Learning com Transferência de Estilo: Usa redes neurais para combinar características de diferentes imagens e gerar novas variações.
+    Face Swapping (Troca de Rostos): Técnicas como DeepFake utilizam redes neurais convolucionais para substituir o rosto de uma pessoa pelo de outra, mantendo expressões e iluminação consistentes.
+
+2. Tecnologias Utilizadas
+
+    Redes Neurais Convolucionais (CNNs): Utilizadas para identificar padrões em imagens e reconstruí-las com alta fidelidade.
+    Redes Generativas Adversariais (GANs): Modelos como StyleGAN2 e StyleGAN3 são amplamente usados para criar rostos hiper-realistas.
+    Modelos de Difusão: Modelos como Stable Diffusion e DALL·E utilizam um processo probabilístico para gerar imagens a partir de descrições textuais.
+    Face Swap & DeepFake: Modelos como First Order Motion Model e DeepFaceLab permitem criar vídeos e imagens onde o rosto de uma pessoa é substituído por outro.
+
+3. Principais Ferramentas
+
+Aqui estão algumas das ferramentas mais conhecidas para gerar imagens de pessoas famosas:
+Abertas e acessíveis
+
+    Stable Diffusion (por Stability AI) – Gera imagens realistas e permite manipulação avançada.
+    DALL·E 3 (por OpenAI) – Gera imagens hiper-realistas a partir de descrições textuais.
+    FaceSwap – Um projeto de código aberto para troca de rostos usando aprendizado profundo.
+    DeepFaceLab – Ferramenta popular para criar deepfakes em vídeos e imagens.
+
+Corporativas e comerciais
+
+    Adobe Firefly – IA da Adobe integrada a Photoshop e outras ferramentas para edição avançada de imagens.
+    Runway ML – Plataforma que permite gerar e editar imagens e vídeos com IA.
+    MidJourney – Especializada em geração de imagens artísticas e realistas.
 
 ## 💭 Reflexão (Opcional)
-Comente sobre o desafio de criar algo 'natty' com IA.
-```
+Criar algo falso se tornou muito fácil e a disponibilizaçõ de qualuer um, o que de um lado pode auxiliar beneficios em campanhas ou divulgação de ideias ou mesmos "memes" , por outro pode traze e tem trazido prejuizo a muitas pessoas , seja de reputação ou de quebra de direitos autorauis e de imagem. 
+Muito cuidado deve se ter na crialão e no consumo destas imagenes. 
 
-### Exemplos e Insigths
 
-- [E-BOOK](/exemplos/E-BOOK.md)
-- [Podcast](/exemplos/PODCAST.md)
-- [Vídeo (Avatar Virtual)](/exemplos/VIDEO.md)
-
-## Links Interessantes
-
-[Base10: If You’re Not First, You’re Last: How AI Becomes Mission Critical](https://base10.vc/post/generative-ai-mission-critical/)
-
-![Base10's Trend Map Generative AI](https://github.com/digitalinnovationone/lab-natty-or-not/assets/730492/f4df26e8-f8f7-4419-8252-c69d73ea930c)
